@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Xcode build files
+DerivedData/
+build/
+
+# Xcode project user data
+*.xcworkspace
+*.xcuserdata/
+*.xcuserstate
+
+# IDE and editor-specific
+.idea/
+*.swp
+*.lock
+*.log
+
+# Configuration
+*.xcconfig
+
+# Property lists
+*.plist
+
+# Hide secret keys
+Quiz Maker/util/Secrets.xcconfig
